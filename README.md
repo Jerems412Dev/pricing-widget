@@ -10,4 +10,4 @@ It's a simple pricing widget interaction
 
 ## Link
 
-Here's a [link]() for Demo website
+Here's a [link](https://pricing-widget.vercel.app/) for Demo website
